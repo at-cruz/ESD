@@ -6,5 +6,8 @@ pasta
 cheese
 chicken
 
+crisps
+Pizza
+
 
 Thank you!!
